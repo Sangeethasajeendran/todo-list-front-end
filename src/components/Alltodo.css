@@ -1,0 +1,19 @@
+
+
+.todo{
+    margin-top: 500px;
+    /* margin-left: 700px; */ 
+    background-color: #34495e;
+    padding: 15px;
+    margin: 15px;
+    overflow-x: hidden;
+    list-style: none;
+}
+
+.icon{
+    float: right;
+    margin-right: 20px;
+}
+article{
+    display: grid;
+}

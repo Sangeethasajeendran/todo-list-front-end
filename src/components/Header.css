@@ -1,0 +1,13 @@
+body{
+   
+    margin: 0 auto;
+}
+.heading{
+    text-align: center;
+  }
+
+.heading{
+    font-size: 100px;
+    color:#c6d0db ;
+    font-weight: 200;
+  }
